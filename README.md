@@ -6,3 +6,4 @@ this is based on the given pdf file ( MySQLExam.pdf ) <br/>
 Execute the following command : <br/>
  
  USE <your_db_name>; 
+ Now get the sql script in part2.sql
